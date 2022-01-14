@@ -4126,7 +4126,7 @@ input[type="button"].btn-block {
 
 .screen iframe{
 
-  border-radius:10px;
+  border-radius:10px solid rgba(22, 28, 45, 0.125);
 }
 
 
