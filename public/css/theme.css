@@ -17078,7 +17078,7 @@ section,
       section [class^="container"],
       .section [class^="container"] {
         padding-top: 90px;
-        padding-bottom: 90px; } }
+        padding-bottom: 150px; } }
   section .container-wide,
   .section .container-wide {
     overflow-x: hidden; }
