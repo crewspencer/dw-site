@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/crewspencer/dw-site.git"
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crewspencer/dw-site/issues"
   },
-  "homepage": "https://github.com/crewspencer/dw-site#readme"
+  "homepage": "https://github.com/crewspencer/dw-site#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
