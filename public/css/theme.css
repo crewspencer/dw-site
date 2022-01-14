@@ -4124,10 +4124,7 @@ input[type="button"].btn-block {
     .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
       color: #ffffff; }
 
-.screen iframe{
 
-  border-radius:10px solid rgba(22, 28, 45, 0.125);
-}
 
 
 .card {
