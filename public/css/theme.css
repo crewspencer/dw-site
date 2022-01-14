@@ -560,6 +560,10 @@ pre {
   @media only screen and (max-width: 600px){
     .screen iframe{
       height: 400px!important;
+      border-radius: 10px;
+    }
+    .card{
+    border:2px solid rgba(22, 28, 45, 0.125);
     }
 
     /*Big smartphones [426px -> 600px]*/
@@ -567,6 +571,11 @@ pre {
   @media only screen and (max-width: 425px){
     .screen iframe{
       height: 300px!important;
+      border-radius: 10px;
+
+    }
+    .card{
+      border:2px solid rgba(22, 28, 45, 0.125);
     }
 
     /*Small smartphones [325px -> 425px]*/
@@ -4115,6 +4124,12 @@ input[type="button"].btn-block {
     .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
       color: #ffffff; }
 
+.screen iframe{
+
+  border-radius:10px;
+}
+
+
 .card {
   position: relative;
   display: -webkit-box;
@@ -4128,7 +4143,7 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #ffffff;
   background-clip: border-box;
-  border: 1px solid rgba(22, 28, 45, 0.125);
+  border: 2px solid rgba(22, 28, 45, 0.125);
   border-radius: 0.25rem; }
   .card > hr {
     margin-right: 0;
