@@ -17069,7 +17069,7 @@ section,
   section [class^="container"],
   .section [class^="container"] {
     padding-top: 45px;
-    padding-bottom: 45px;
+    padding-bottom: 120px;
     position: relative; }
     section [class^="container"].bring-to-front,
     .section [class^="container"].bring-to-front {
