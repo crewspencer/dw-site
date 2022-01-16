@@ -559,7 +559,7 @@ pre {
 
   @media only screen and (max-width: 600px){
     .screen iframe{
-      height: 400px!important;
+      height: 300px!important;
       border-radius: 10px;
     }
     .card{
@@ -570,7 +570,7 @@ pre {
   }
   @media only screen and (max-width: 425px){
     .screen iframe{
-      height: 300px!important;
+      height: 200px!important;
       border-radius: 10px;
 
     }
