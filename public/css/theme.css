@@ -15325,7 +15325,7 @@ h1, h2, h3, h4, h5, h6,
     @media (min-width: 768px) {
       .nav-tabs.nav-outlined .nav-link {
         margin-top: 0;
-        padding: 0.25rem 1.25rem; } }
+        padding: 0.25rem 2.25rem; } }
     .nav-tabs.nav-outlined .nav-link.active {
       background-color: #5533ff;
       color: #ffffff; }
