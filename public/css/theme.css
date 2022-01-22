@@ -242,12 +242,10 @@ th {
   text-align: inherit; }
 
 
-.padding-right{
-  padding-right: 100px!important;
-}
-@media (min-width:768) {
+
+@media (min-width:992px) {
   .padding-right {
-    padding-right: none;
+    padding-right: 100px!important;
   }
 }
 
