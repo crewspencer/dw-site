@@ -245,6 +245,12 @@ th {
 .padding-right{
   padding-right: 100px!important;
 }
+@media (min-width:768) {
+  .padding-right {
+    padding-right: none;
+  }
+}
+
 
 
 label {
