@@ -4163,7 +4163,6 @@ input[type="button"].btn-block {
           flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #ffffff;
   background-clip: border-box;
   border: 2px solid rgba(22, 28, 45, 0.125);
   border-radius: 0.25rem; }
