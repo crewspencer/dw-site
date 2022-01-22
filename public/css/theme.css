@@ -243,10 +243,9 @@ th {
 
 
 .padding-right{
-  padding-right: 100px;
+  padding-right: 100px!important;
 }
 
-}
 
 label {
   display: inline-block;
