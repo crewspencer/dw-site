@@ -7,7 +7,7 @@ var passport = require("passport");
 var LocalStrategy = require("passport-local");
 var path = require('path');
 
-mongoose.connect("mongodb://127.0.0.1/demo-test");
+mongoose.connect("mongodb://127.0.0.1:27017/demo-test");
 app.set("views", path.resolve(__dirname, "views"));
 app.use(express.static(path.join(__dirname, '/public')));''
 app.use(bodyParser.urlencoded({extended: true}));
